@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Thiago Joaquim
 
-### 💻 Software Developer in Training | Full Stack Development
+### Software Developer in Training | Full Stack Development
 
 <p>
 Building practical software solutions and turning ideas into real projects.
@@ -12,7 +12,7 @@ Building practical software solutions and turning ideas into real projects.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **developer in training** focused on **software development, web applications, and automation**.
 
@@ -20,16 +20,16 @@ I enjoy building practical projects, solving problems through code, and continuo
 
 Currently focused on:
 
-- 💻 Software Development
-- 🌐 Web Development
-- ⚙️ Fullstack Development
-- 🗄️ Databases
-- 🤖 Automation
-- 🚀 Building real-world projects
+-  Software Development
+-  Web Development
+-  Fullstack Development
+-  Databases
+-  Automation
+-  Building real-world projects
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -40,11 +40,11 @@ Currently focused on:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Database
+###  Database
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔧 Tools
+###  Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -53,11 +53,11 @@ Currently focused on:
 
 ---
 
-# 🚀 Featured Project
+#  Featured Project
 
 <div align="center">
 
-## 📦 Fairing Control System
+##  Fairing Control System
 
 </div>
 
@@ -65,20 +65,20 @@ A web-based system developed to digitalize and organize the process of receiving
 
 The project focuses on replacing manual processes with a structured digital solution.
 
-### ⚙️ Key Features
+###  Key Features
 
-- 📋 Receiving management
-- 🔎 Part reference search
-- 🧩 Automatic description filling
-- 📦 Quantity management
-- 🚫 Duplicate reference prevention
-- ⚠️ Discrepancy tracking
-- 🧾 Invoice registration
-- 📁 Entry history
-- 👤 User responsibility tracking
-- 🗃️ SQLite database
-- 🌐 Web interface
-- 💾 Local data storage
+-  Receiving management
+-  Part reference search
+-  Automatic description filling
+-  Quantity management
+-  Duplicate reference prevention
+-  Discrepancy tracking
+-  Invoice registration
+-  Entry history
+-  User responsibility tracking
+-  SQLite database
+-  Web interface
+-  Local data storage
 
 <div align="center">
 
@@ -88,7 +88,7 @@ The project focuses on replacing manual processes with a structured digital solu
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -100,7 +100,7 @@ The project focuses on replacing manual processes with a structured digital solu
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -110,7 +110,7 @@ The project focuses on replacing manual processes with a structured digital solu
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
@@ -120,7 +120,7 @@ The project focuses on replacing manual processes with a structured digital solu
 
 ---
 
-# 🎯 Currently Learning
+#  Currently Learning
 
 <div align="center">
 
@@ -134,7 +134,7 @@ The project focuses on replacing manual processes with a structured digital solu
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -152,8 +152,8 @@ The project focuses on replacing manual processes with a structured digital solu
 
 <div align="center">
 
-### 💡 "Turning ideas into digital solutions."
+###  "Turning ideas into digital solutions."
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 </div>
