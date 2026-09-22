@@ -22,7 +22,7 @@ Currently focused on:
 
 - 💻 Software Development
 - 🌐 Web Development
-- ⚙️ Backend Development
+- ⚙️ Fullstack Development
 - 🗄️ Databases
 - 🤖 Automation
 - 🚀 Building real-world projects
