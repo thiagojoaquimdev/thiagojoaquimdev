@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello World! I'm Thiago Joaquim
+# Hi, I'm Thiago Joaquim
 
 ### Software Developer in Training | Building Real-World Projects
 
@@ -12,11 +12,9 @@ Software development, web applications, automation and continuous learning.
 
 ## About Me
 
-I'm a developer in training focused on software development and building practical applications.
+I'm a software developer in training focused on building practical applications and improving my skills through real-world projects.
 
-I'm currently improving my skills in programming, web development, backend development and databases through hands-on projects.
-
-My goal is to continuously build, learn and develop better software solutions.
+Currently focused on software development, web technologies, backend development and databases.
 
 ---
 
@@ -29,7 +27,7 @@ My goal is to continuously build, learn and develop better software solutions.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Database & Tools
 
@@ -45,7 +43,7 @@ My goal is to continuously build, learn and develop better software solutions.
 
 ### Fairing Control System
 
-A web-based system developed with Python and SQLite for managing the receipt and registration of motorcycle fairings.
+Web-based system developed with Python and SQLite for managing the receipt and registration of motorcycle fairings.
 
 [View Project](https://github.com/thiagojoaquimdev/sistema-controle-carenagens)
 
