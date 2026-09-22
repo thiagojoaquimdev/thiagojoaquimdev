@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Thiago Joaquim
+# Hello World! I'm Thiago Joaquim
 
 ### Software Developer in Training | Building Real-World Projects
 
