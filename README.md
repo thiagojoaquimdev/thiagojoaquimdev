@@ -51,38 +51,6 @@ A web-based system developed with Python and SQLite for managing the receipt and
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagojoaquimdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojoaquimdev&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thiagojoaquimdev&theme=tokyonight&hide_border=false"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagojoquimdev&theme=tokyo-night&hide_border=false"/>
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
