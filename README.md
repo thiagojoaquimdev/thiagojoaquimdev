@@ -1,63 +1,89 @@
-# 👋 Olá! Eu sou Thiago Joaquim
+<div align="center">
 
-💻 Desenvolvedor em formação  
-📦 Tecnólogo em Logística  
-🐍 Python | JavaScript | HTML | CSS | SQLite  
-🚀 Automação de processos e desenvolvimento de sistemas
+# 👋 Olá, eu sou Thiago Joaquim
 
----
+### 💻 Desenvolvedor em formação | 📦 Logística | 🚀 Tecnologia e Automação
 
-## 🧑‍💻 Sobre mim
+<p>
+Transformando processos do dia a dia em soluções digitais.
+</p>
 
-Sou profissional da área de **Logística** e estou direcionando minha carreira para **Tecnologia da Informação e Desenvolvimento de Software**.
-
-Tenho interesse principalmente em desenvolvimento de sistemas, automação de processos e criação de soluções que possam tornar atividades operacionais mais simples, organizadas e eficientes.
-
-Atualmente estou desenvolvendo projetos próprios para aplicar meus conhecimentos na prática.
+</div>
 
 ---
 
-## 🚀 Projeto em destaque
+## 👨‍💻 Sobre mim
 
-### 📦 Sistema de Controle de Carenagens
+Sou **Tecnólogo em Logística** e atualmente estou direcionando minha carreira para a área de **Tecnologia da Informação e Desenvolvimento de Software**.
 
-Sistema web desenvolvido para digitalizar e organizar o processo de recebimento, conferência e entrada de carenagens.
+Tenho interesse em desenvolver sistemas, automatizar processos e criar soluções que tornem operações mais organizadas, rápidas e eficientes.
 
-**Principais funcionalidades:**
-
-- 📋 Controle de recebimentos
-- 🔎 Pesquisa de referências
-- 🧩 Preenchimento automático de descrição
-- 📦 Controle de quantidades
-- ⚠️ Identificação de divergências
-- 🧾 Registro de NF-e
-- 📁 Histórico de entradas
-- 👥 Controle de responsáveis
-- 🗃️ Banco de dados SQLite
-- 🌐 Interface web local
-
-🔗 **[Acessar o projeto](https://github.com/thiagojoaquimdev/sistema-controle-carenagens)**
+Meu principal objetivo é unir minha experiência com **processos logísticos e operacionais** aos conhecimentos de **programação e desenvolvimento de sistemas**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
-### Linguagens
+<div align="center">
+
+### 💻 Desenvolvimento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Ferramentas e tecnologias
+### 🗄️ Banco de Dados
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔧 Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 GitHub
+# 🚀 Projeto em destaque
+
+<div align="center">
+
+## 📦 Sistema de Controle de Carenagens
+
+</div>
+
+Sistema web desenvolvido para **digitalizar e organizar o processo de recebimento, conferência e entrada de carenagens**.
+
+O projeto foi criado a partir de uma necessidade real de processo operacional, buscando substituir controles manuais e melhorar a organização das informações.
+
+### ⚙️ Principais funcionalidades
+
+- 📋 Registro de recebimentos
+- 🔎 Pesquisa de referências
+- 🧩 Preenchimento automático de descrição
+- 📦 Controle de quantidades
+- 🚫 Prevenção de referências duplicadas
+- ⚠️ Registro de divergências
+- 🧾 Registro de NF-e
+- 📁 Histórico de entradas
+- 👤 Identificação dos responsáveis
+- 🗃️ Banco de dados SQLite
+- 🌐 Interface web
+- 💾 Armazenamento local
+
+<div align="center">
+
+### 🔗 Confira o projeto
+
+[![Sistema de Controle de Carenagens](https://img.shields.io/badge/🚀_Ver_Projeto-Sistema_de_Controle_de_Carenagens-181717?style=for-the-badge)](https://github.com/thiagojoaquimdev/sistema-controle-carenagens)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -69,40 +95,32 @@ Sistema web desenvolvido para digitalizar e organizar o processo de recebimento,
 
 ---
 
-## 🔥 Contribuições
+# 🔥 GitHub Streak
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thiagojoaquimdev&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=thiagojoaquimdev&theme=tokyonight&hide_border=false"/>
 
 </div>
 
 ---
 
-## 📈 Atividade
-
-![Thiago's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagojoaquimdev&theme=tokyo-night)
-
----
-
-## 📫 Contato
+# 📈 Contribution Graph
 
 <div align="center">
 
-<a href="https://github.com/thiagojoaquimdev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagojoaquimdev&theme=tokyo-night&hide_border=false"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 📌 Objetivos
 
-### 🚀 Sempre aprendendo, desenvolvendo e transformando ideias em soluções.
-
-</div>
+```text
+[████████████████████░░] Aprender Python
+[██████████████████░░░░] Desenvolvimento Web
+[████████████████░░░░░░] Banco de Dados
+[██████████████░░░░░░░░] Backend
+[████████████░░░░░░░░░░] Projetos próprios
+[██████████░░░░░░░░░░░░] Full Stack
