@@ -83,17 +83,6 @@ A web-based system developed with Python and SQLite for managing the receipt and
 
 ---
 
-## Currently Learning
-
-- Python
-- JavaScript
-- Web Development
-- Backend Development
-- Databases
-- Software Architecture
-
----
-
 ## Connect
 
 <div align="center">
