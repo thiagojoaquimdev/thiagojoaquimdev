@@ -2,7 +2,7 @@
 
 # Hi, I'm Thiago Joaquim
 
-### Software Developer in Training | Building Real-World Projects
+### Software Developer in Training | Full Stack Development
 
 Software development, web applications, automation and continuous learning.
 
