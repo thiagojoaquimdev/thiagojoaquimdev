@@ -1,24 +1,31 @@
 <div align="center">
 
-# 👋 Hi, I am Thiago Joaquim
+# 👋 Hi, I'm Thiago Joaquim
 
-### 💻 Desenvolvedor em formação | 📦 Logística | 🚀 Tecnologia e Automação
+### 💻 Software Developer in Training | Full Stack Development
 
 <p>
-Transformando processos do dia a dia em soluções digitais.
+Building practical software solutions and turning ideas into real projects.
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou **Tecnólogo em Logística** e atualmente estou direcionando minha carreira para a área de **Tecnologia da Informação e Desenvolvimento de Software**.
+I'm a **developer in training** focused on **software development, web applications, and automation**.
 
-Tenho interesse em desenvolver sistemas, automatizar processos e criar soluções que tornem operações mais organizadas, rápidas e eficientes.
+I enjoy building practical projects, solving problems through code, and continuously improving my development skills.
 
-Meu principal objetivo é unir minha experiência com **processos logísticos e operacionais** aos conhecimentos de **programação e desenvolvimento de sistemas**.
+Currently focused on:
+
+- 💻 Software Development
+- 🌐 Web Development
+- ⚙️ Backend Development
+- 🗄️ Databases
+- 🤖 Automation
+- 🚀 Building real-world projects
 
 ---
 
@@ -26,18 +33,18 @@ Meu principal objetivo é unir minha experiência com **processos logísticos e 
 
 <div align="center">
 
-### 💻 Desenvolvimento
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Banco de Dados
+### 🗄️ Database
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔧 Ferramentas
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -46,38 +53,36 @@ Meu principal objetivo é unir minha experiência com **processos logísticos e 
 
 ---
 
-# 🚀 Projeto em destaque
+# 🚀 Featured Project
 
 <div align="center">
 
-## 📦 Sistema de Controle de Carenagens
+## 📦 Fairing Control System
 
 </div>
 
-Sistema web desenvolvido para **digitalizar e organizar o processo de recebimento, conferência e entrada de carenagens**.
+A web-based system developed to digitalize and organize the process of receiving, checking, and registering motorcycle fairings.
 
-O projeto foi criado a partir de uma necessidade real de processo operacional, buscando substituir controles manuais e melhorar a organização das informações.
+The project focuses on replacing manual processes with a structured digital solution.
 
-### ⚙️ Principais funcionalidades
+### ⚙️ Key Features
 
-- 📋 Registro de recebimentos
-- 🔎 Pesquisa de referências
-- 🧩 Preenchimento automático de descrição
-- 📦 Controle de quantidades
-- 🚫 Prevenção de referências duplicadas
-- ⚠️ Registro de divergências
-- 🧾 Registro de NF-e
-- 📁 Histórico de entradas
-- 👤 Identificação dos responsáveis
-- 🗃️ Banco de dados SQLite
-- 🌐 Interface web
-- 💾 Armazenamento local
+- 📋 Receiving management
+- 🔎 Part reference search
+- 🧩 Automatic description filling
+- 📦 Quantity management
+- 🚫 Duplicate reference prevention
+- ⚠️ Discrepancy tracking
+- 🧾 Invoice registration
+- 📁 Entry history
+- 👤 User responsibility tracking
+- 🗃️ SQLite database
+- 🌐 Web interface
+- 💾 Local data storage
 
 <div align="center">
 
-### 🔗 Confira o projeto
-
-[![Sistema de Controle de Carenagens](https://img.shields.io/badge/🚀_Ver_Projeto-Sistema_de_Controle_de_Carenagens-181717?style=for-the-badge)](https://github.com/thiagojoaquimdev/sistema-controle-carenagens)
+[![View Project](https://img.shields.io/badge/🚀_View_Project-Fairing_Control_System-181717?style=for-the-badge)](https://github.com/thiagojoaquimdev/sistema-controle-carenagens)
 
 </div>
 
@@ -115,12 +120,40 @@ O projeto foi criado a partir de uma necessidade real de processo operacional, b
 
 ---
 
-# 📌 Objetivos
+# 🎯 Currently Learning
 
-```text
-[████████████████████░░] Aprender Python
-[██████████████████░░░░] Desenvolvimento Web
-[████████████████░░░░░░] Banco de Dados
-[██████████████░░░░░░░░] Backend
-[████████████░░░░░░░░░░] Projetos próprios
-[██████████░░░░░░░░░░░░] Full Stack
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Web Development](https://img.shields.io/badge/Web_Development-1572B6?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-6DB33F?style=flat-square)
+![Databases](https://img.shields.io/badge/Databases-003B57?style=flat-square)
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/thiagojoaquimdev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Turning ideas into digital solutions."
+
+⭐ Thanks for visiting my profile!
+
+</div>
