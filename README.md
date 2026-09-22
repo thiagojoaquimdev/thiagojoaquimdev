@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Thiago Joaquim
+# 👋 Hi, I am Thiago Joaquim
 
 ### 💻 Desenvolvedor em formação | 📦 Logística | 🚀 Tecnologia e Automação
 
